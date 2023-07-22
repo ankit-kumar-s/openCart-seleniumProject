@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: opencart_TestBase.openCart_BaseTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.897 s -- in opencart_TestBase.openCart_BaseTest

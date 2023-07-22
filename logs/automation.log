@@ -1,0 +1,112 @@
+15:00:21.600 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Startng loginPage Test ***
+15:00:22.162 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login option 
+15:00:23.269 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to Login Page screen ***
+15:00:23.386 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set Email
+15:00:24.165 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set password 
+15:00:24.676 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login button
+15:00:25.030 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to MyLoginAccount Page screen ***
+15:00:25.599 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - ** MyLoginAccount Page screen ***
+15:03:59.208 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:04:13.865 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:04:25.559 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:04:37.046 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:04:49.358 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:43:12.296 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:43:17.541 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+15:43:19.913 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+15:43:20.114 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  clicked logout from valid block 
+15:43:31.508 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:43:32.469 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+15:43:32.989 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+15:43:44.511 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:43:49.489 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+15:43:50.086 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+15:44:00.461 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:44:01.174 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+15:44:01.653 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+15:44:12.702 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+15:44:13.531 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+15:44:14.027 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+15:44:14.072 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  clicked logout from valid block 
+16:16:14.559 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Startng loginPage Test ***
+16:16:14.993 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login option 
+16:16:15.509 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to Login Page screen ***
+16:16:15.512 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set Email
+16:16:15.849 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set password 
+16:16:16.032 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login button
+16:16:16.162 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to MyLoginAccount Page screen ***
+16:16:16.269 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - ** MyLoginAccount Page screen ***
+16:44:10.080 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+16:44:11.938 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+16:44:13.871 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+16:44:16.690 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+16:44:17.429 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+16:44:17.899 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+16:44:28.836 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+16:44:29.598 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+16:44:30.041 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+16:44:31.772 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Finished TC_003_LoginDataDrivenTest
+16:44:31.782 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+16:44:32.265 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+16:44:32.843 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+16:44:43.167 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+16:44:45.126 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+16:44:45.644 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+16:44:45.700 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  clicked logout from valid block 
+18:21:33.941 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:33.948 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:35.768 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+18:21:35.788 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+18:21:36.908 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+18:21:36.927 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+18:21:38.399 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:38.508 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:39.067 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+18:21:39.166 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  hp is done 
+18:21:39.841 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+18:21:39.947 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  lp is done 
+18:21:41.329 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:41.459 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:41.538 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:42.976 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:43.027 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+18:21:43.132 [main] INFO  opencart_TestBase.TC_03_openCartlogintestDDT -  Starting TC_003_LoginDataDrivenTest 
+19:12:16.799 [main] INFO  opencart_TestBase.TC_01_OpenCart - .....TC_01_OpenCar Started...
+19:12:16.947 [main] INFO  opencart_TestBase.TC_01_OpenCart - Passed MyAcount
+19:12:17.198 [main] INFO  opencart_TestBase.TC_01_OpenCart - Passed Registration
+19:12:18.683 [main] INFO  opencart_TestBase.TC_01_OpenCart - RegisterPage
+19:12:19.461 [main] INFO  opencart_TestBase.TC_01_OpenCart - Clicked on continue sucesfully
+19:12:34.882 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Startng loginPage Test ***
+19:12:35.179 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login option 
+19:12:35.649 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to Login Page screen ***
+19:12:35.658 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set Email
+19:12:35.999 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set password 
+19:12:36.196 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login button
+19:12:36.316 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to MyLoginAccount Page screen ***
+19:12:36.445 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - ** MyLoginAccount Page screen ***
+19:19:38.666 [main] INFO  opencart_TestBase.TC_01_OpenCart - .....TC_01_OpenCar Started...
+19:19:38.786 [main] INFO  opencart_TestBase.TC_01_OpenCart - Passed MyAcount
+19:19:39.039 [main] INFO  opencart_TestBase.TC_01_OpenCart - Passed Registration
+19:19:40.207 [main] INFO  opencart_TestBase.TC_01_OpenCart - RegisterPage
+19:19:41.349 [main] INFO  opencart_TestBase.TC_01_OpenCart - Clicked on continue sucesfully
+19:19:57.610 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Startng loginPage Test ***
+19:19:57.808 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login option 
+19:19:58.307 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to Login Page screen ***
+19:19:58.311 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set Email
+19:19:58.599 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set password 
+19:19:58.771 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login button
+19:19:58.873 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to MyLoginAccount Page screen ***
+19:19:58.950 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - ** MyLoginAccount Page screen ***
+20:08:38.458 [main] INFO  opencart_TestBase.TC_01_OpenCart - .....TC_01_OpenCar Started...
+20:08:38.514 [main] INFO  opencart_TestBase.TC_01_OpenCart - Passed MyAcount
+20:08:38.755 [main] INFO  opencart_TestBase.TC_01_OpenCart - Passed Registration
+20:08:39.488 [main] INFO  opencart_TestBase.TC_01_OpenCart - RegisterPage
+20:08:40.411 [main] INFO  opencart_TestBase.TC_01_OpenCart - Clicked on continue sucesfully
+20:08:54.584 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Startng loginPage Test ***
+20:08:54.725 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login option 
+20:08:55.233 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to Login Page screen ***
+20:08:55.280 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set Email
+20:08:55.555 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Set password 
+20:08:55.726 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - Clicked login button
+20:08:55.834 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - **Navigated to MyLoginAccount Page screen ***
+20:08:55.952 [main] INFO  opencart_TestBase.TC_01_opencart_logintest - ** MyLoginAccount Page screen ***
